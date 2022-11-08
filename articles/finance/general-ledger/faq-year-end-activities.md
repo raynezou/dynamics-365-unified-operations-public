@@ -100,6 +100,105 @@ Before you can use this feature, it must be turned on in your system. Admins can
 - Module: General ledger
 - Feature name: Performance improvements for rebuilding financial dimension sets
 
+## Accounts payable: What changes have been made to support 1099 year-end reporting for 2022?
+The following changes have been made to all 1099 forms for the 2022 tax year:
+
+1099 forms for 2021
+
+ ![image](https://user-images.githubusercontent.com/115514221/200467302-2506ea8b-2318-4f37-a756-55359085471d.png)
+ 
+1099-forms for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467321-648127dd-936e-4d50-9f05-3f623f1bfc83.png)
+
+•	Before: The year is fixed.
+
+•	Now: The year is filled by the report. 
+
+The following changes have been made to Form 1099-MISC for the 2022 tax year:
+
+Changes to Box 13
+
+Form 1099-MISC for 2021
+
+![image](https://user-images.githubusercontent.com/115514221/200467350-da12a113-1359-4c56-aa34-1178c492af51.png)
+
+Form 1099-MISC for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467386-d3c46fa0-8dda-4f84-a2cb-cac3edf0080a.png)
+
+•	Before: Box 13 was used to report the excess golden parachute payments.
+
+•	Now: Box 13 is used to indicate the Foreign Account Tax Compliance Act (FATCA) filing requirement
+
+Changes to Box 14
+
+Form 1099-MISC for 2021
+
+![image](https://user-images.githubusercontent.com/115514221/200467457-39cd95c9-89bf-4c52-bdde-00c8e5a77206.png) 
+
+Form 1099-MISC for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467477-0050394f-9f20-41c4-9fe3-77b805f8e727.png) 
+
+•	Before: Box 14 was used to report the payment under NQDC plans.
+
+•	Now: Box 14 is used to report the excess gold parachute payments.
+
+Changes to Box 15
+
+Form 1099-MISC for 2021
+
+![image](https://user-images.githubusercontent.com/115514221/200467518-ce3c36f3-c8ea-456c-8656-94b26f8f0c5e.png) 
+
+Form 1099-MISC for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467546-34ff201f-cd83-47e5-bf60-034496f249e4.png) 
+
+•	Before: Box 15 was used to report on the state withheld taxes.
+
+•	Now: Box 15 is used to report the payment under NQDC plans.
+
+Changes to Box 16
+
+Form 1099-MISC for 2021
+
+![image](https://user-images.githubusercontent.com/115514221/200467568-49eaa1ff-fb96-4799-b18f-b0057d6b8ac3.png) 
+
+Form 1099-MISC for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467591-ac0692da-63d6-4a12-8626-3af35aa35a12.png) 
+
+•	Before: Box 16 was used to report the payer's state number.
+
+•	Now: Box 16 is used to report the state-withheld taxes.
+
+Changes to Box 17
+
+Form 1099-MISC for 2021
+
+![image](https://user-images.githubusercontent.com/115514221/200467613-616522af-3324-42e2-9161-d27e6eebd180.png) 
+
+Form 1099-MISC for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467637-304edd50-3932-44fe-ab73-24deab4165d3.png)
+
+•	Before: Box 17 was used to report the state income
+
+•	Now: Box 17 is used to report the payer's state number.
+
+Changes to Box 18
+
+Form 1099-MISC for 2021
+
+![image](https://user-images.githubusercontent.com/115514221/200467665-4237c019-a2c0-44d8-b3c3-52853da851f7.png) 
+
+Form 1099-MISC for 2022
+
+![image](https://user-images.githubusercontent.com/115514221/200467706-1a9e514f-22ec-4fde-8242-9f2cf588a9dd.png) 
+
+•	Now: Box 18 is used to report the state income.
+
 ## Accounts payable: What changes have been made to support 1099 year-end reporting for 2021?
 
 In 2021, the DIV, NEC, and MISC forms have been changed slightly, and some additional boxes have been added.
